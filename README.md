@@ -1,4 +1,19 @@
-## Chat in NodeJS and socket IO
+# Chat in NodeJS and socket IO
+
+[View the online version](http://codiscovery-night-chat.herokuapp.com/)
+
+![img](./extras/night_chat.gif)
+
+[View the online version](http://codiscovery-night-chat.herokuapp.com/)
+
+## Installation
+
+```
+npm i
+npm start
+```
+
+
 
 ### Colors
 
